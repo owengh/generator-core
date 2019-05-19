@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Java Generator Core
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Specification-Vendor: MyBatis.org
+Specification-Title: Java Generator Core
+Implementation-Vendor-Id: com.btjf.generator
+Implementation-Vendor: MyBatis.org
+Main-Class: org.mybatis.generator.api.ShellRunner
+Implementation-Build-Date: 2019-05-19 17:11:22+0000
+X-Compile-Target-JDK: 1.6
+X-Compile-Source-JDK: 1.6
+Build-Jdk: 1.8.0_202
+Specification-Version: 1.0-SNAPSHOT
+Implementation-URL: http://www.mybatis.org/java-generator/java-generat
+ or-core/
+Created-By: Maven Integration for Eclipse
+
